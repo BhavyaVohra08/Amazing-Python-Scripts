@@ -3,28 +3,28 @@
 ## Our Pledge
 
 
-We as project administrators and mentors pledge to make participation in our community a harassment-free experience for all, regardless of race, gender, sexual orientation, age, education, experience level, nationality, religion, disability or body size. 
+We, as project administrators and mentors, pledge to make participation in our community a harassment-free experience for all, regardless of race, gender, sexual orientation, age, education, experience level, nationality, religion, disability, or body size.
 
-We pledge to always act and interact in ways that foster an inclusive, diverse, open, welcoming and healthy community.
+We pledge to always act and interact in ways that foster an inclusive, diverse, open, welcoming, and healthy community.
 
 ## Our Standards
 
-Examples of unacceptable behavior include: 
+Examples of unacceptable behaviour include:
 
-* The use of sexually charged language or imagery, including sexual advances of any kind. 
-* Derogatory comments, personal or political attacks. 
-* Publishing others' private information such as physical address or email address without their express permission.
-* Public or private harassment of any kind.
-* Any other conducts that could be considered inappropriate in a professional setting. 
+* The use of sexually charged language or imagery, including sexual advances of any kind.
+* Derogatory comments, personal or political attacks 
+* Publishing others' private information, such as their physical address or email address, without their express permission.
+* Public or private harassment of any kind
+* Any other conduct that could be considered inappropriate in a professional setting
 
 
-Examples of behavior that contributes to a positive environment for our community:
+Examples of behaviour that contributes to a positive environment for our community:
 
-* Showing kindness and empathy toward other people. 
-* Using respectful, welcoming and inclusive language. 
-* Providing and receiving feedback gracefully. 
-* Accepting responsibility and apologizing to those affected by our mistakes.
-* Focusing on what is best not just for us as individuals but for the overall community.
+* Showing kindness and empathy towards other people.
+* Using respectful, welcoming, and inclusive language
+* Providing and receiving feedback gracefully.
+* Accepting responsibility and apologising to those affected by our mistakes
+* Focusing on what is best, not just for us as individuals but for the overall community.
 
 ## Enforcement Responsibilities
 
